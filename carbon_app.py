@@ -36,7 +36,7 @@ elif slctd_district == 'Región':
     if chosen_region == None:
         st.markdown("#### <- Seleccione la región a mapear")
     else:
-        st.image(f"Region_CarbonMaps/{chosen_region}.png")
+        st.image(r'f"Region_CarbonMaps/{chosen_region}.png"')
 
         col1, col2, col3 = st.columns(3)
         with col1: st.markdown("")
