@@ -1,6 +1,6 @@
 # CarbonMaps: Visualización del Carbono Orgánico del Suelo en Chile.
 
-Esta web app fue diseñada para visualizar mapas del carbono orgánico del suelo. La fuente de los datos geoespaciales es el Global Soil Organic Carbon Map (FAO, 2018), que se puede obtener en el sitio web ['Global Soil Information System' (GloSIS)](https://data.apps.fao.org/glosis/?share=f-6756da2a-5c1d-4ac9-9b94-297d1f105e83&lang=en).
+Esta web app, displonible en [https://carbono-organico.streamlit.app/](https://carbono-organico.streamlit.app/), fue diseñada para visualizar mapas del carbono orgánico del suelo. La fuente de los datos geoespaciales es el Global Soil Organic Carbon Map (FAO, 2018), que se puede obtener en el sitio web ['Global Soil Information System' (GloSIS)](https://data.apps.fao.org/glosis/?share=f-6756da2a-5c1d-4ac9-9b94-297d1f105e83&lang=en).
  
 Los mapas fueron generados con QGIS usando archivos 'shapefile' con los límites político-administrativos del país (SUBDERE, 2023). El sistema de referencia de coordenadas de los mapas es el EPSG 32719 (WGS 84 / UTM zona 19S). La resolución mínima es aproximadamente 1km x 1km (tamaño de cada pixel).
 
