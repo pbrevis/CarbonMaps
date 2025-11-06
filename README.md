@@ -7,3 +7,5 @@ Los mapas fueron generados con QGIS usando archivos 'shapefile' con los límites
 **Referencias**  
 Food and Agriculture Organization. 2018. Global Soil Organic Carbon Map, Technical Report. Global Soil Partnership Secretariat. Disponible en [fao.org](https://www.fao.org/documents/card/en/c/I8891EN)  
 Subsecretaría de Desarrollo Regional y Administrativo. 2023. División Política Administrativa 2023. Disponible en [geoportal.cl](https://www.geoportal.cl/geoportal/catalog/36391/Divisi%C3%B3n%20Pol%C3%ADtica%20Administrativa%202023).
+
+![Screenshot](https://github.com/pbrevis/CarbonMaps/blob/main/Images/carbon_maps_screenshot.png)
